@@ -12,7 +12,6 @@
 
 Оформлено в YouTrack (XLSX), с привязкой багов к соответствующим тест-кейсам из QASE.  
 💡[Тестовый прогон QASE](https://drive.google.com/file/d/1ds13LFQbSIKmab41ZszNTE9AfzxS9v2N/view?usp=sharing)  
-# 
 
 💡[Отчет о ходе тестирования  ](https://docs.google.com/document/d/1U4rluJG9db82_EK10Mg7dZ1GYyDSFZvtPanMd6CWm-8/edit?usp=sharing)    
 
